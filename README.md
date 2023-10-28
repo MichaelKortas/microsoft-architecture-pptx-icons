@@ -4,7 +4,7 @@ A familiar problem: We want to quickly draw an architecture in PowerPoint. Micro
 
 In addition, the Windows Explorer does not display thumbnails of SVG without additional add-ons, which further complicates the search for the appropriate icon.
 
-For this reason I have compiled the following SVG collections in PowerPoint for easy usage:
+For this reason I have compiled the following SVG collections in PowerPoint for easier usage:
 
 - https://learn.microsoft.com/en-us/azure/architecture/icons/
 - https://learn.microsoft.com/en-us/dynamics365/get-started/icons
