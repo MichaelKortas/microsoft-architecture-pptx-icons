@@ -1,6 +1,6 @@
 # Microsoft Architecture Icons compiled in PowerPoint
 
-A familiar problem: We want to quickly draw an architecture in PowerPoint. Microsoft offers a fantastic collection of different architectural icons for this purpose, but unfortunately these icons have to be copied manually into PowerPoint slide decks. 
+A common problem: You want to quickly draw an architecture in PowerPoint. Microsoft offers a fantastic collection of different architectural icons for this purpose, but unfortunately these icons have to be copied manually into PowerPoint slide decks. 
 
 In addition, the Windows Explorer does not display thumbnails of SVG without additional add-ons, which further complicates the search for the appropriate icon.
 
