@@ -10,6 +10,9 @@ For this reason I have compiled the following SVG collections in PowerPoint for 
 - https://learn.microsoft.com/en-us/dynamics365/get-started/icons
 - https://learn.microsoft.com/en-us/power-platform/guidance/icons
 
+## Download
+- https://raw.githubusercontent.com/MichaelKortas/microsoft-architecture-pptx-icons/main/MicrosoftArchitectureIconsCollection.pptx
+
 # Legal & Usage Information
 
 ## Ownership & Copyright
